@@ -27,4 +27,12 @@ You can use that repo as a helper kit in iOS development
 <br />
 <br />
 [**Computed and Stored Properties**](https://github.com/ahmetbostanciklioglu/Properties.git)
+<br />
+<br />
+[**Closures**](https://github.com/ahmetbostanciklioglu/Closures.git)
+<br />
+<br />
+[**Trailing Closures**](https://github.com/ahmetbostanciklioglu/TrailingClosures.git)
+
+
 
