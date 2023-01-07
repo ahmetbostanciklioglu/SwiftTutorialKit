@@ -11,7 +11,7 @@ You can use that repo as a helper kit in iOS development
 [**Enum**](https://github.com/ahmetbostanciklioglu/Enums.git)
 <br />
 <br />
-[**Enum**](https://github.com/ahmetbostanciklioglu/Conditions.git)
+[**Conditions**](https://github.com/ahmetbostanciklioglu/Conditions.git)
 <br />
 <br />
 [**For-While-Do While Loops**](https://github.com/ahmetbostanciklioglu/Loops.git)
