@@ -15,3 +15,6 @@ You can use that repo as a helper kit in iOS development
 <br />
 <br />
 [**For-While-Do While Loops**](https://github.com/ahmetbostanciklioglu/Loops.git)
+<br />
+<br />
+[**Functions**](https://github.com/ahmetbostanciklioglu/Functions.git)
