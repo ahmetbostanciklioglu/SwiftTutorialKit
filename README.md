@@ -33,6 +33,8 @@ You can use that repo as a helper kit in iOS development
 <br />
 <br />
 [**Trailing Closures**](https://github.com/ahmetbostanciklioglu/TrailingClosures.git)
-
+<br />
+<br />
+[**Self usage in initializers**](https://github.com/ahmetbostanciklioglu/Self.git)
 
 
