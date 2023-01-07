@@ -18,3 +18,6 @@ You can use that repo as a helper kit in iOS development
 <br />
 <br />
 [**Functions**](https://github.com/ahmetbostanciklioglu/Functions.git)
+<br />
+<br />
+[**Struct**](https://github.com/ahmetbostanciklioglu/Struct.git)
