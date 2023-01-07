@@ -24,5 +24,7 @@ You can use that repo as a helper kit in iOS development
 <br />
 <br />
 [**Array**](https://github.com/ahmetbostanciklioglu/Array.git)
-
+<br />
+<br />
+[**Computed and Stored Properties**](https://github.com/ahmetbostanciklioglu/Properties.git)
 
