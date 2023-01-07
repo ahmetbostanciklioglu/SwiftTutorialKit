@@ -35,7 +35,7 @@ You can use that repo as a helper kit in iOS development
 [**Trailing closures**](https://github.com/ahmetbostanciklioglu/TrailingClosures.git)
 <br />
 <br />
-[**Self usage in initializers**](https://github.com/ahmetbostanciklioglu/Self.git)
+[**Self in initializers**](https://github.com/ahmetbostanciklioglu/Self.git)
 <br />
 <br />
 [**Static property**](https://github.com/ahmetbostanciklioglu/Static.git)
