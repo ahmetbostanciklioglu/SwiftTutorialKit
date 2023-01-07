@@ -36,5 +36,7 @@ You can use that repo as a helper kit in iOS development
 <br />
 <br />
 [**Self usage in initializers**](https://github.com/ahmetbostanciklioglu/Self.git)
-
+<br />
+<br />
+[**Static**](https://github.com/ahmetbostanciklioglu/Static.git)
 
