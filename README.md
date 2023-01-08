@@ -42,3 +42,10 @@ You can use that repo as a helper kit in iOS development
 <br />
 <br />
 [**Access Control types**](https://github.com/ahmetbostanciklioglu/AccessControl.git)
+<br />
+<br />
+[**Class**](https://github.com/ahmetbostanciklioglu/Class.git)
+
+
+
+
