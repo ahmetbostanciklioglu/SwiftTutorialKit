@@ -81,4 +81,6 @@ You can use that repo as a helper kit in iOS development
 <br />
 <br />
 [**Failable Initialize**](https://github.com/ahmetbostanciklioglu/FailableInitialize.git)
-
+<br />
+<br />
+[**Type Casting**](https://github.com/ahmetbostanciklioglu/TypeCasting.git)
