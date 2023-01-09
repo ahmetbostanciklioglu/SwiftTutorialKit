@@ -78,3 +78,7 @@ You can use that repo as a helper kit in iOS development
 <br />
 <br />
 [**Optional Chaining**](https://github.com/ahmetbostanciklioglu/OptionalChaining.git)
+<br />
+<br />
+[**Failable Initialize**](https://github.com/ahmetbostanciklioglu/FailableInitialize.git)
+
